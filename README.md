@@ -35,8 +35,8 @@ git push origin feature/<branch_name>
 - Once your feature is complete and tested, create a pull request on the hosting platform (e.g., GitHub) to merge your branch back into ```development```.
 
 ## Best Practices for Avoiding Version Control Issues:
-**Frequent Pulls:** Regularly pull updates from the remote master branch to stay in sync with other developers' work.
-**Clear Commit Messages:** Write concise and informative commit messages that describe the specific changes made in each commit.
-**Small, Focused Commits:** Make frequent commits that represent logical changes rather than large, complex commits.
-**Resolve Conflicts Promptly:** Address merge conflicts as soon as you encounter them to avoid bigger issues down the line.
-**Code Reviews:** Utilize code reviews before merging branches to ensure code quality and identify potential issues early on.
+- **Frequent Pulls:** Regularly pull updates from the remote master branch to stay in sync with other developers' work.
+- **Clear Commit Messages:** Write concise and informative commit messages that describe the specific changes made in each commit.
+- **Small, Focused Commits:** Make frequent commits that represent logical changes rather than large, complex commits.
+- **Resolve Conflicts Promptly:** Address merge conflicts as soon as you encounter them to avoid bigger issues down the line.
+- **Code Reviews:** Utilize code reviews before merging branches to ensure code quality and identify potential issues early on.
